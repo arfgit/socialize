@@ -4,7 +4,7 @@ export default {
   type: "document",
   fields: [
     { name: "title", title: "Title", type: "string" },
-    { name: "about", title: "Aboust", type: "string" },
+    { name: "about", title: "About", type: "string" },
     { name: "destination", title: "Destination", type: "url" },
     { name: "category", title: "Category", type: "string" },
     {
